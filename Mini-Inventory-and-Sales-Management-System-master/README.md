@@ -22,10 +22,4 @@ An Inventory and Production Management System written in PHP (CodeIgniter) with 
   - Open __"application/config/config.php"__ and do the same.
   - Open __"public/js/main.js"__ and do the same.
 
-# Demo
-View demo here: https://inventory.1410inc.xyz/
 
-To log in:
-
-- Email: demo@1410inc.xyz
-- Password: demopass
